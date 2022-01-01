@@ -4,7 +4,7 @@
  Author        : Serkan SEVMEZ
  //-----------------------------------------------------------------------------------------------------------------
  Purpose       : The purpose of the system is to enable you to stand upright thanks to the force sensor placed
-                  on the chair and thus to light the table lamp.
+                 on the chair and thus to light the table lamp.
  //-----------------------------------------------------------------------------------------------------------------
  System Input  : 
                  1) RP-C18.3-ST : To measure the force that will cause the lamp to light   
